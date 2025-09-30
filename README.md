@@ -67,3 +67,11 @@ If you don’t already have the dataset, you can download it from [Connectionist
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements.
+
+📌 Author
+
+👤 Abrar Jamil
+
+🔗 LinkedIn: https://www.linkedin.com/in/abrarjamil11/
+
+📧 abrarjamil5263@gmail.com
