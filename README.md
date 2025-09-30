@@ -31,29 +31,39 @@ This project is a Machine Learning classification model that predicts whether an
 •	Language: Python in Google Colab
 
 •	Libraries:
-
-  o	NumPy
-  
-  o	Pandas
-  
-  o	Scikit-learn
+    o	NumPy
+    o	Pandas
+    o	Scikit-learn
 
 
 📊 Dataset
 
+
 The dataset consists of sonar signals bounced off different surfaces.
+
 •	Label "R" → Rock
+
 •	Label "M" → Mine
+
 If you don’t already have the dataset, you can download it from Connectionist Bench (Sonar, Mines vs. Rocks) - UCI Machine Learning Repository.
 
+
 📈 Results
+
 •	The trained model achieves high accuracy in distinguishing between rocks and mines.
+
 •	Accuracy may vary slightly depending on train-test split.
 
+
 🔮 Future Improvements
+
 •	Try deep learning models (ANNs, CNNs).
+
 •	Apply hyperparameter tuning for better accuracy.
+
 •	Deploy the model using Flask/Streamlit for real-world usage.
 
+
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements.
