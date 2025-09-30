@@ -45,7 +45,7 @@ The dataset consists of sonar signals bounced off different surfaces.
 
 •	Label "M" → Mine
 
-If you don’t already have the dataset, you can download it from Connectionist Bench (Sonar, Mines vs. Rocks) - UCI Machine Learning Repository.
+If you don’t already have the dataset, you can download it from [Connectionist Bench (Sonar, Mines vs. Rocks) - UCI Machine Learning Repository.](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks)
 
 
 📈 Results
